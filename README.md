@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RafaDom10/infinite-scroll/blob/master/LICENSE) 
 
 # Sobre o projeto
-## About the project
+### About the project
 
 
 https://unsplash-infinite-scroll.netlify.app/
@@ -34,19 +34,19 @@ my skills, the infinite scrolling function of the page.
 
 
 # Tecnologias utilizadas
-## Technologies used
+### Technologies used
 
 
 - HTML / CSS / Vanilla JavaScript
 
 # Implantação em produção
-## Deployment in production
+### Deployment in production
 
 - Front end web: Netlify
 
 
 # Autor
-## Author
+### Author
 Rafael Domingues
 
 https://www.linkedin.com/in/rafael-domingues-72abbaa1
